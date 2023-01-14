@@ -8,43 +8,51 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. I work at the intersection of Applied Machine Learning, Human-Computer Interaction, and Ubiquitous Computing. I develop multimodal machine learning methods and systems to understand and augment human behavior, with the goal of improving health, wellbeing, and performance. My work has been published in top-tier HCI venues, including ACM CHI (IMWUT), IMWUT (UbiComp), CSCW, TOCHI, and JMIR, and has also been covered by media publications such as Wall Street Journal, Forbes, and Harvard Business Review. 
 
-A data-driven personal website
+I have been a part of research teams at [Microsoft Research](https://www.microsoft.com/en-us/research/){:target="_blank"} and [Snap Research](https://research.snap.com/){:target="_blank"}, and have collaborated on research projects with clinicians and the [University of Pittsburgh Medical Center](https://www.upmc.com/){:target="_blank"}. I was awarded the [Center for Machine Learning and Health Fellowship](https://www.cs.cmu.edu/cmlh/digital-health-archive/cmlh-digital-health-fellows-2017){:target="_blank"}, and the [Snap Research Fellowship](https://research.snap.com/fellowships.html){:target="_blank"}. 
+
+Prior to starting my PhD, I completed a [MS in Robotics from Carnegie Mellon University](https://www.ri.cmu.edu/){:target="_blank"}, and a [B.Eng. in Computer Science from Nanyang Technological University](https://www.ntu.edu.sg/scse){:target="_blank"}.
+
+> I'm currently on the job market for industry positions related to research and project development. You can reach me at pchikersal[@]gmail.com.
+
+---
+
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Peer-Reviewed Conference and Journal Papers
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Chikersal, P.**, Venkatesh, S., Masown, K., Walker, E., Quraishi, D., Dey, A., Goel, M., & Xia, Z. [Predicting Multiple Sclerosis Outcomes during the COVID-19 Stay-at-Home Period: Observational Study Using Passively Sensed Behaviors and Digital Phenotyping](files/papers/chikersal2022_jmir_ms.pdf){:target="_blank"}. In *JMIR mental health* (2022). 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Xu, X., **Chikersal, P.**, Dutcher, J. M., Sefidgar, Y. S., Seo, W., Tumminia, M. J., Villalba, D. K., Cohen, S., Creswell, K. G., Creswell, J. D., Doryab, A., Nurius, P. S., Riskin, E., Dey, A. K., & Mankoff, J. Leveraging Collaborative-Filtering for Personalized Behavior Modeling: A Case Study of Depression Detection among College Students. In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (Ubicomp 2021).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Tomprou, M., Kim, Y. J., **Chikersal, P.**, Woolley, A. W., & Dabbish, L. (2021). Speaking out of turn: How video conferencing reduces vocal synchrony and collective intelligence. *PLOS ONE*.
 
-**Markdown generator**
+**Chikersal, P.**, Doryab, A., Tumminia, M., Villalba, D., Dutcher, J., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., Goel, M., & Dey, A. (2020). Detecting Depression and Predicting its Onset Using Longitudinal Symptoms Captured by Passive Sensing: A Machine Learning Approach With Robust Feature Selection. *ACM Transactions on Computer-Human Interaction* (TOCHI 2020).
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**Chikersal, P.**, Belgrave, D., Doherty, G, Enrique, A., Palacios, J., Richards, D., & Thieme, A. (2020). Understanding Client Support Strategies to Improve Clinical Outcomes in an Online Mental Health Intervention. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems* (CHI 2020).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Xu, X., **Chikersal, P.**, Doryab, A., Villalba, D., Dutcher, J. M., Tumminia, M. J., Althoff, T., Cohen, S., Creswell, K., Creswell, D., Mankoff, J., & Dey, A. K. (2019). Leveraging Routine Behavior and Contextually-Filtered Features for Depression Detection among College Students. In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (Ubicomp 2019).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., & Dey, A. K. (2019). Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: A Three-fold Analysis. In *Journal of medical Internet research* (JMIR 2019).
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Chikersal, P.**, Tomprou, M., Kim, Y. J., Woolley, A. W., & Dabbish, L. (2017). Deep Structures of Collaboration: Physiological Correlates of Collective Intelligence and Group Satisfaction. In *Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing* (CSCW 2017)
+
+**Chikersal, P.**, Poria, S., Cambria, E., Gelbukh, A., & Siong, C. E. (2015). Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning. In *International Conference on Intelligent Text Processing and Computational Linguistics* (CICLing 2015) (pp. 49-65).
+
+## Peer-Reviewed Workshop Papers
+
+**Chikersal, P.**, Doherty, G, & Thieme, A. (2020). Towards Using AI to Augment Human Support in Digital Mental Healthcare. In *Proceedings of the 2020 CHI Workshop on Technology Ecosystems: Rethinking Resources for Mental Health*.
+
+**Chikersal, P.**, Poria, S., & Cambria, E. (2015). SeNTU: Sentiment Analysis of Tweets by Combining a Rule-based Classifier with Supervised Learning. In *Proceedings of the 4th International Workshop on Semantic Evaluations (pp. 647-651). Association for Computational Linguistics*.
+
+## PhD Thesis Proposal
+
+**Chikersal, P.** (2022, April). Multimodal Behavioral Sensing for Precision Mental Health Care. *PhD Thesis Proposal*, Carnegie Mellon University, Pittsburgh, PA, USA.
+
+## Thesis
+
+**Chikersal, P.** (2017, May). Deep Structures of Collaboration. *Masters Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA.
+
+**Chikersal, P.** (2015, May). Modelling Public Sentiment in Twitter. *Bachelor Thesis*, Nanyang Technological University, Singapore.
