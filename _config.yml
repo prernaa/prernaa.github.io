@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Prerna Chikersal"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student,<br>Human-Computer Interaction,<br>School of Computer Science,<br>Carnegie Mellon University<h3>Research Areas:</h3><p>Applied Machine Learning</p><p>Human-Computer Interaction</p><p>Ubiquitous Computing</p><p>Data Science</p><hr>pchikersal[@]gmail.com"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
