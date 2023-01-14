@@ -49,7 +49,7 @@ Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Li
 
 ## PhD Thesis Proposal
 
-**Chikersal, P.** (2022, April). Multimodal Behavioral Sensing for Precision Mental Health Care. *PhD Thesis Proposal*, Carnegie Mellon University, Pittsburgh, PA, USA.
+**Chikersal, P.** (2022, April). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/ppts/thesis_proposal_talk.pdf){:target="_blank"}. *PhD Thesis Proposal*, Carnegie Mellon University, Pittsburgh, PA, USA.
 
 ## Thesis
 
