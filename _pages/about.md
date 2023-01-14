@@ -37,9 +37,9 @@ Xu, X., **Chikersal, P.**, Doryab, A., Villalba, D., Dutcher, J. M., Tumminia, M
 
 Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., & Dey, A. K. (2019). [Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: A Three-fold Analysis](files/papers/jmir2019_loneliness.pdf){:target="_blank"}. In *Journal of medical Internet research* (JMIR 2019).
 
-**Chikersal, P.**, Tomprou, M., Kim, Y. J., Woolley, A. W., & Dabbish, L. (2017). [Deep Structures of Collaboration: Physiological Correlates of Collective Intelligence and Group Satisfaction](files/papers/chikersal2017_cscw.pdf){:target="_blank"}. In *Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing* (CSCW 2017)
+**Chikersal, P.**, Tomprou, M., Kim, Y. J., Woolley, A. W., & Dabbish, L. (2017). [Deep Structures of Collaboration: Physiological Correlates of Collective Intelligence and Group Satisfaction](files/papers/chikersal2017_cscw.pdf){:target="_blank"}. In *Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing* (CSCW 2017). [\[Link to Slides\]](files/ppts/cscw_ppt.pdf){:target="_blank"}
 
-**Chikersal, P.**, Poria, S., Cambria, E., Gelbukh, A., & Siong, C. E. (2015). [Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning](files/papers/chikersal2015_cicling.pdf){:target="_blank"}. In *International Conference on Intelligent Text Processing and Computational Linguistics* (CICLing 2015) (pp. 49-65).
+**Chikersal, P.**, Poria, S., Cambria, E., Gelbukh, A., & Siong, C. E. (2015). [Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning](files/papers/chikersal2015_cicling.pdf){:target="_blank"}. In *International Conference on Intelligent Text Processing and Computational Linguistics* (CICLing 2015) (pp. 49-65). [\[Link to Slides\]](files/ppts/cicling_ppt.pdf){:target="_blank"}
 
 ## Peer-Reviewed Workshop Papers
 
