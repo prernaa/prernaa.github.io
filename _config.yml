@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -83,9 +83,9 @@ author:
   name             : "Prerna Chikersal"
   avatar           : "profile.png"
   bio              : "PhD Student2,<br>Human-Computer Interaction,<br>School of Computer Science,<br>Carnegie Mellon University<h3>Research Areas:</h3><p>Applied Machine Learning</p><p>Human-Computer Interaction</p><p>Ubiquitous Computing</p><p>Data Science</p><hr>pchikersal[@]gmail.com"
-  location         : 
+  location         : "Location"
   employer         :
-  pubmed           : 
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0DVY4GYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "prernac
-  orcid            : 
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
