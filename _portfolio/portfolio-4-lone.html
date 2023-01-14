@@ -1,9 +1,25 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "<img src='/images/500x300.png'>"
+title: "Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: A Three-fold Analysis"
+excerpt: " Statistical Analysis, Data Mining and Machine Learning of Smartphone and Fitbit Data<img src='/images/proj/lone_big.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+<p><strong>Background:</strong> Feelings of loneliness are associated with poor physical and mental health. Detection of loneliness through passive sensing on personal devices can lead to the development of interventions aimed at decreasing rates of loneliness.</p>
 
-<br/><img src='/images/500x300.png'>"
+<p><strong>Objective:</strong> The aim of this study was to explore the potential of using passive sensing to infer levels of loneliness and to identify the corresponding behavioral patterns.</p>
+
+<p><strong>Methods:</strong> Data were collected from smartphones and Fitbits (Flex 2) of 160 college students over a semester. The participants completed the University of California, Los Angeles (UCLA) loneliness questionnaire at the beginning and end of the semester. For a classification purpose, the scores were categorized into high (questionnaire score>40) and low (≤40) levels of loneliness. Daily features were extracted from both devices to capture activity and mobility, communication and phone usage, and sleep behaviors. The features were then averaged to generate semester-level features. We used 3 analytic methods: (1) statistical analysis to provide an overview of loneliness in college students, (2) data mining using the Apriori algorithm to extract behavior patterns associated with loneliness, and (3) machine learning classification to infer the level of loneliness and the change in levels of loneliness using an ensemble of gradient boosting and logistic regression algorithms with feature selection in a leave-one-student-out cross-validation manner.</p>
+
+<p><strong>Results:</strong> The average loneliness score from the presurveys and postsurveys was above 43 (presurvey SD 9.4 and postsurvey SD 10.4), and the majority of participants fell into the high loneliness category (scores above 40) with 63.8% (102/160) in the presurvey and 58.8% (94/160) in the postsurvey. Scores greater than 1 standard deviation above the mean were observed in 12.5% (20/160) of the participants in both pre and post survey scores. The majority of scores, however, fell between 1 standard deviation below and above the mean (pre=66.9% [107/160] and post=73.1% [117/160]). Our machine learning pipeline achieved an accuracy of 80.2% in detecting the binary level of loneliness and an 88.4% accuracy in detecting change in the loneliness level. The mining of associations between classifier-selected behavioral features and loneliness indicated that compared with students with low loneliness, students with high levels of loneliness were spending less time outside of campus during evening hours on weekends and spending less time in places for social events in the evening on weekdays (support=17% and confidence=92%). The analysis also indicated that more activity and less sedentary behavior, especially in the evening, was associated with a decrease in levels of loneliness from the beginning of the semester to the end of it (support=31% and confidence=92%).</p>
+
+<p><strong>Conclusions:</strong> Passive sensing has the potential for detecting loneliness in college students and identifying the associated behavioral patterns. These findings highlight intervention opportunities through mobile technology to reduce the impact of loneliness on individuals’ health and well-being.</p>
+
+<br><img src='/images/proj/lone_big.png'><br><br>
+
+<p><strong>Publication:</strong> <strong>Chikersal, P.</strong>, Doryab, A., Tumminia, M., Villalba, D., Dutcher, J., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., Goel, M., & Dey, A. (2020). <a href = "https://prernaa.github.io/files/papers/chikersal2020_tochi_dep.pdf">Detecting Depression and Predicting its Onset Using Longitudinal Symptoms Captured by Passive Sensing: A Machine Learning Approach With Robust Feature Selection</a>. <em>ACM Transactions on Computer-Human Interaction</em> (TOCHI 2020).</p>
+
+<p><strong>Publication:</strong> Doryab, A., Villalba, D. K., <strong>Chikersal, P.</strong>, Dutcher, J. M., Tumminia, M., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., & Dey, A. K. (2019). <a href = "https://prernaa.github.io/files/papers/jmir2019_loneliness.pdf">Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: A Three-fold Analysis</a>. In <em>Journal of medical Internet research</em> (JMIR 2019).</p>
+
+<p><strong>My Contributions:</strong> Used machine learning on smartphone and fitbit to predict loneliness related outcomes. Analyzed data using statistics and machine learning in Python. Helped with paper writing.</p>
+
+
