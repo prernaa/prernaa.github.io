@@ -85,8 +85,8 @@ author:
   bio              : "PhD Student,<br>Human-Computer Interaction,<br>School of Computer Science,<br>Carnegie Mellon University<h3>Research Areas:</h3><p>Applied Machine Learning</p><p>Human-Computer Interaction</p><p>Ubiquitous Computing</p><p>Data Science</p><hr>pchikersal[@]gmail.com"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=0DVY4GYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
