@@ -25,27 +25,27 @@ Publications
 
 **Chikersal, P.**, Venkatesh, S., Masown, K., Walker, E., Quraishi, D., Dey, A., Goel, M., & Xia, Z. [Predicting Multiple Sclerosis Outcomes during the COVID-19 Stay-at-Home Period: Observational Study Using Passively Sensed Behaviors and Digital Phenotyping](files/papers/chikersal2022_jmir_ms.pdf){:target="_blank"}. In *JMIR mental health* (2022). 
 
-Xu, X., **Chikersal, P.**, Dutcher, J. M., Sefidgar, Y. S., Seo, W., Tumminia, M. J., Villalba, D. K., Cohen, S., Creswell, K. G., Creswell, J. D., Doryab, A., Nurius, P. S., Riskin, E., Dey, A. K., & Mankoff, J. Leveraging Collaborative-Filtering for Personalized Behavior Modeling: A Case Study of Depression Detection among College Students. In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (Ubicomp 2021).
+Xu, X., **Chikersal, P.**, Dutcher, J. M., Sefidgar, Y. S., Seo, W., Tumminia, M. J., Villalba, D. K., Cohen, S., Creswell, K. G., Creswell, J. D., Doryab, A., Nurius, P. S., Riskin, E., Dey, A. K., & Mankoff, J. [Leveraging Collaborative-Filtering for Personalized Behavior Modeling: A Case Study of Depression Detection among College Students](files/papers/ubicomp2021.pdf){:target="_blank"}. In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (Ubicomp 2021).
 
-Tomprou, M., Kim, Y. J., **Chikersal, P.**, Woolley, A. W., & Dabbish, L. (2021). Speaking out of turn: How video conferencing reduces vocal synchrony and collective intelligence. *PLOS ONE*.
+Tomprou, M., Kim, Y. J., **Chikersal, P.**, Woolley, A. W., & Dabbish, L. (2021). [Speaking out of turn: How video conferencing reduces vocal synchrony and collective intelligence](files/papers/plosone_cistudy.pdf){:target="_blank"}. *PLOS ONE*.
 
-**Chikersal, P.**, Doryab, A., Tumminia, M., Villalba, D., Dutcher, J., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., Goel, M., & Dey, A. (2020). Detecting Depression and Predicting its Onset Using Longitudinal Symptoms Captured by Passive Sensing: A Machine Learning Approach With Robust Feature Selection. *ACM Transactions on Computer-Human Interaction* (TOCHI 2020).
+**Chikersal, P.**, Doryab, A., Tumminia, M., Villalba, D., Dutcher, J., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., Goel, M., & Dey, A. (2020). [Detecting Depression and Predicting its Onset Using Longitudinal Symptoms Captured by Passive Sensing: A Machine Learning Approach With Robust Feature Selection](files/papers/chikersal2020_tochi_dep.pdf){:target="_blank"}. *ACM Transactions on Computer-Human Interaction* (TOCHI 2020).
 
-**Chikersal, P.**, Belgrave, D., Doherty, G, Enrique, A., Palacios, J., Richards, D., & Thieme, A. (2020). Understanding Client Support Strategies to Improve Clinical Outcomes in an Online Mental Health Intervention. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems* (CHI 2020).
+**Chikersal, P.**, Belgrave, D., Doherty, G, Enrique, A., Palacios, J., Richards, D., & Thieme, A. (2020). [Understanding Client Support Strategies to Improve Clinical Outcomes in an Online Mental Health Intervention](files/papers/chikersal2020_chi_msr.pdf){:target="_blank"}. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems* (CHI 2020).
 
-Xu, X., **Chikersal, P.**, Doryab, A., Villalba, D., Dutcher, J. M., Tumminia, M. J., Althoff, T., Cohen, S., Creswell, K., Creswell, D., Mankoff, J., & Dey, A. K. (2019). Leveraging Routine Behavior and Contextually-Filtered Features for Depression Detection among College Students. In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (Ubicomp 2019).
+Xu, X., **Chikersal, P.**, Doryab, A., Villalba, D., Dutcher, J. M., Tumminia, M. J., Althoff, T., Cohen, S., Creswell, K., Creswell, D., Mankoff, J., & Dey, A. K. (2019). [Leveraging Routine Behavior and Contextually-Filtered Features for Depression Detection among College Students](files/papers/ubicomp2019.pdf){:target="_blank"}. In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (Ubicomp 2019).
 
-Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., & Dey, A. K. (2019). Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: A Three-fold Analysis. In *Journal of medical Internet research* (JMIR 2019).
+Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Liu, X., Cohen, S., Creswell, K., Mankoff, J., Creswell, D., & Dey, A. K. (2019). [Identifying Behavioral Phenotypes of Loneliness and Social Isolation with Passive Sensing: A Three-fold Analysis](files/papers/jmir2019_loneliness.pdf){:target="_blank"}. In *Journal of medical Internet research* (JMIR 2019).
 
-**Chikersal, P.**, Tomprou, M., Kim, Y. J., Woolley, A. W., & Dabbish, L. (2017). Deep Structures of Collaboration: Physiological Correlates of Collective Intelligence and Group Satisfaction. In *Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing* (CSCW 2017)
+**Chikersal, P.**, Tomprou, M., Kim, Y. J., Woolley, A. W., & Dabbish, L. (2017). [Deep Structures of Collaboration: Physiological Correlates of Collective Intelligence and Group Satisfaction](files/papers/chikersal2017_cscw.pdf){:target="_blank"}. In *Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing* (CSCW 2017)
 
-**Chikersal, P.**, Poria, S., Cambria, E., Gelbukh, A., & Siong, C. E. (2015). Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning. In *International Conference on Intelligent Text Processing and Computational Linguistics* (CICLing 2015) (pp. 49-65).
+**Chikersal, P.**, Poria, S., Cambria, E., Gelbukh, A., & Siong, C. E. (2015). [Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning](files/papers/chikersal2015_cicling.pdf){:target="_blank"}. In *International Conference on Intelligent Text Processing and Computational Linguistics* (CICLing 2015) (pp. 49-65).
 
 ## Peer-Reviewed Workshop Papers
 
-**Chikersal, P.**, Doherty, G, & Thieme, A. (2020). Towards Using AI to Augment Human Support in Digital Mental Healthcare. In *Proceedings of the 2020 CHI Workshop on Technology Ecosystems: Rethinking Resources for Mental Health*.
+**Chikersal, P.**, Doherty, G, & Thieme, A. (2020). [Towards Using AI to Augment Human Support in Digital Mental Healthcare](files/papers/workshop_chi2020.pdf){:target="_blank"}. In *Proceedings of the 2020 CHI Workshop on Technology Ecosystems: Rethinking Resources for Mental Health*.
 
-**Chikersal, P.**, Poria, S., & Cambria, E. (2015). SeNTU: Sentiment Analysis of Tweets by Combining a Rule-based Classifier with Supervised Learning. In *Proceedings of the 4th International Workshop on Semantic Evaluations (pp. 647-651). Association for Computational Linguistics*.
+**Chikersal, P.**, Poria, S., & Cambria, E. (2015). [SeNTU: Sentiment Analysis of Tweets by Combining a Rule-based Classifier with Supervised Learning](files/papers/workshop_semeval2015.pdf){:target="_blank"}. In *Proceedings of the 4th International Workshop on Semantic Evaluations (pp. 647-651). Association for Computational Linguistics*.
 
 ## PhD Thesis Proposal
 
@@ -53,6 +53,6 @@ Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Li
 
 ## Thesis
 
-**Chikersal, P.** (2017, May). Deep Structures of Collaboration. *Masters Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA.
+**Chikersal, P.** (2017, May). [Deep Structures of Collaboration](files/reports/msthesis.pdf){:target="_blank"}. *Masters Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA.
 
-**Chikersal, P.** (2015, May). Modelling Public Sentiment in Twitter. *Bachelor Thesis*, Nanyang Technological University, Singapore.
+**Chikersal, P.** (2015, May). [Modelling Public Sentiment in Twitter](files/reports/bengthesis.pdf){:target="_blank"}. *Bachelor Thesis*, Nanyang Technological University, Singapore.
