@@ -14,7 +14,7 @@ I have been a part of research teams at [Microsoft Research](https://www.microso
 
 Prior to starting my PhD, I completed a [MS in Robotics from Carnegie Mellon University](https://www.ri.cmu.edu/){:target="_blank"}, and a [B.Eng. in Computer Science from Nanyang Technological University](https://www.ntu.edu.sg/scse){:target="_blank"}.
 
-> I'm currently on the job market for industry positions related to research and project development. You can reach me at pchikersal[@]gmail.com.
+> I'm currently on the job market for industry positions related to research and project development, and post-docs. You can reach me at pchikersal[@]gmail.com.
 
 ---
 
