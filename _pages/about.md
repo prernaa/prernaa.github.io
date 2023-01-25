@@ -20,7 +20,7 @@ Prior to starting my PhD, I completed a [MS in Robotics from Carnegie Mellon Uni
 
 Publications
 ======
-![vennprojects](/images/venn.png)
+![vennprojects](/images/venn.png){:width="50%"}
 
 ## Peer-Reviewed Conference and Journal Papers
 
