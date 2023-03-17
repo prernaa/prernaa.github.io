@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. I develop machine learning methods and systems to understand and augment human behavior, with the goal of improving health, wellbeing, and performance. For this purpose, I analyze multimodal data such as smartphone and wearable data, web interaction logs, text and speech data, facial images, and electronic health records by combining methods from statistics, speech processing, natural language processing, and computer vision. I also have experience developing mobile apps for human subject research, and qualitative method such as user interviews and thematic analysis. My work has been published in top-tier HCI venues, including ACM CHI (IMWUT), IMWUT (UbiComp), CSCW, TOCHI, and JMIR, and has also been covered by media publications such as Wall Street Journal, Forbes, and Harvard Business Review. 
+I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. I develop machine learning (ML) methods and ML-driven interfaces to understand and augment human behavior, with the goal of improving health, wellbeing, and performance. For this purpose, I analyze multimodal data such as smartphone and wearable data, web interaction logs, text and speech data, facial images, and electronic health records by combining methods from statistics, speech processing, natural language processing, and computer vision. I also have experience developing mobile apps for user studies, and conducting UX research using qualitative methods such as user interviews, surveys, and thematic analysis. My work has been published in top-tier HCI venues, including ACM CHI (IMWUT), IMWUT (UbiComp), CSCW, TOCHI, and JMIR, and has also been covered by media publications such as Wall Street Journal, Forbes, and Harvard Business Review. 
 
 I have been a part of research teams at [Microsoft Research](https://www.microsoft.com/en-us/research/){:target="_blank"} and [Snap Research](https://research.snap.com/){:target="_blank"}, and have collaborated on research projects with clinicians and the [University of Pittsburgh Medical Center](https://www.upmc.com/){:target="_blank"}. I was awarded the [Center for Machine Learning and Health Fellowship](https://www.cs.cmu.edu/cmlh/digital-health-archive/cmlh-digital-health-fellows-2017){:target="_blank"}, and the [Snap Research Fellowship](https://research.snap.com/fellowships.html){:target="_blank"}. 
 
@@ -21,6 +21,8 @@ Prior to starting my PhD, I completed a [MS in Robotics from Carnegie Mellon Uni
 Publications
 ======
 ![vennprojects](/images/venn.png){:width="70%"}
+
+![vennprojects](/images/venn_ds_ux.png){:width="70%"}
 
 ## Peer-Reviewed Conference and Journal Papers
 
