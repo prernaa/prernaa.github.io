@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. I'm a mixed methods researcher with expertise in a variety of quantitative and qualitative research methods. I develop machine learning (ML) methods and ML-driven interfaces to understand and augment human behavior, with the goal of improving health, collaboration, and performance. 
 
-For this purpose, I analyze multimodal data such as smartphone and wearable data, web interaction logs, text and speech data, facial images, and electronic health records by combining methods from statistics, speech processing, natural language processing, and computer vision. I also develop mobile apps for user studies, and conduct UX research using qualitative methods such as user interviews, surveys, and thematic analysis.
+For this purpose, I analyze multimodal data such as smartphone and wearable data, web interaction logs, text and speech data, facial images, and electronic health records by combining methods from statistics, speech processing, natural language processing, and computer vision. I also develop mobile apps for user studies, and conduct UX research using qualitative methods such as surveys, user interviews, contextual enquiry, obseervation, and card sorting/ thematic analysis.
 
 My work has been published in top-tier HCI venues, including ACM CHI (IMWUT), IMWUT (UbiComp), CSCW, TOCHI, and JMIR, and has also been covered by media publications such as Wall Street Journal, Forbes, and Harvard Business Review. 
 
