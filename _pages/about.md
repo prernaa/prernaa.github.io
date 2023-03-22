@@ -31,6 +31,8 @@ Publications
 
 ## Peer-Reviewed Conference and Journal Papers
 
+**Chikersal, P.**, Bayer, K., Smith, B. A., Nayar, S. K. [When Emoji Speak Louder than Words: Personalized Emoji-first Messaging for Enhanced Communication between Partners and Close Friends.](files/papers/chikersal_emochat_preprint.pdf){:target="_blank"}. In Preparation for TBD.
+
 **Chikersal, P.**, Venkatesh, S., Masown, K., Walker, E., Quraishi, D., Dey, A., Goel, M., & Xia, Z. [Predicting Multiple Sclerosis Outcomes during the COVID-19 Stay-at-Home Period: Observational Study Using Passively Sensed Behaviors and Digital Phenotyping](files/papers/chikersal2022_jmir_ms.pdf){:target="_blank"}. In *JMIR mental health* (2022). 
 
 Xu, X., **Chikersal, P.**, Dutcher, J. M., Sefidgar, Y. S., Seo, W., Tumminia, M. J., Villalba, D. K., Cohen, S., Creswell, K. G., Creswell, J. D., Doryab, A., Nurius, P. S., Riskin, E., Dey, A. K., & Mankoff, J. [Leveraging Collaborative-Filtering for Personalized Behavior Modeling: A Case Study of Depression Detection among College Students](files/papers/ubicomp2021.pdf){:target="_blank"}. In *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies* (Ubicomp 2021).
