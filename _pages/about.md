@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. I'm a mixed methods researcher with expertise in a variety of quantitative and qualitative research methods. I develop machine learning (ML) methods and ML-driven interfaces to understand and augment human behavior, with the goal of improving health, collaboration, and performance. 
+I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. My research develops **data science methods and data-driven user interfaces for understanding and augmenting human behavior**, with the goal of improving high-impact application areas like health, well-being, computer-mediated communication, and team collaboration. 
 
-For this purpose, I analyze multimodal data such as smartphone and wearable data, web interaction logs, text and speech data, facial images, and electronic health records by combining methods from statistics, speech processing, natural language processing, and computer vision. I also develop mobile apps for user studies, and conduct UX research using qualitative methods such as surveys, user interviews, and thematic analysis.
+To develop these methods and interfaces, I leverage my diverse skills in behavioral statistics, machine learning, natural language processing, speech processing, and computer vision to analyze datasets from multiple modalities like smartphone and wearable data, web interaction logs, text and speech data, face and body video, and electronic health records. I also develop user interfaces using iterative prototyping, run user studies, and utilize qualitative methods such as user interviews and thematic analysis in my work.
 
-My work has been published in top-tier HCI venues, including ACM CHI (IMWUT), IMWUT (UbiComp), CSCW, TOCHI, and JMIR, and has also been covered by media publications such as Wall Street Journal, Forbes, and Harvard Business Review. 
+My work has been published in top-tier HCI venues, including ACM CHI, IMWUT (UbiComp), CSCW, TOCHI, and JMIR, and has also been covered by media publications such as Wall Street Journal, Forbes, and Harvard Business Review. 
 
 I have been a part of research teams at [Microsoft Research](https://www.microsoft.com/en-us/research/){:target="_blank"} and [Snap Research](https://research.snap.com/){:target="_blank"}, and have collaborated on research projects with clinicians and the [University of Pittsburgh Medical Center](https://www.upmc.com/){:target="_blank"}. I was awarded the [Center for Machine Learning and Health Fellowship](https://www.cs.cmu.edu/cmlh/digital-health-archive/cmlh-digital-health-fellows-2017){:target="_blank"}, and the [Snap Research Fellowship](https://research.snap.com/fellowships.html){:target="_blank"}. 
 
@@ -24,10 +24,6 @@ Prior to starting my PhD, I completed a [MS in Robotics from Carnegie Mellon Uni
 
 Publications
 ======
-<!-- ![vennprojects](/images/venn_ds_ux.png){:width="60%"} -->
-
-![vennprojects](/images/venn.png){:width="70%"}
-
 
 ## Peer-Reviewed Conference and Journal Papers
 
@@ -50,6 +46,10 @@ Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Li
 **Chikersal, P.**, Tomprou, M., Kim, Y. J., Woolley, A. W., & Dabbish, L. (2017). [Deep Structures of Collaboration: Physiological Correlates of Collective Intelligence and Group Satisfaction](files/papers/chikersal2017_cscw.pdf){:target="_blank"}. In *Proceedings of the 20th ACM Conference on Computer-Supported Cooperative Work and Social Computing* (CSCW 2017). [\[Link to Slides\]](files/ppts/cscw_ppt.pdf){:target="_blank"}
 
 **Chikersal, P.**, Poria, S., Cambria, E., Gelbukh, A., & Siong, C. E. (2015). [Modelling Public Sentiment in Twitter: Using Linguistic Patterns to Enhance Supervised Learning](files/papers/chikersal2015_cicling.pdf){:target="_blank"}. In *International Conference on Intelligent Text Processing and Computational Linguistics* (CICLing 2015) (pp. 49-65). [\[Link to Slides\]](files/ppts/cicling_ppt.pdf){:target="_blank"}
+
+<!-- ![vennprojects](/images/venn_ds_ux.png){:width="60%"} -->
+
+![vennprojects](/images/venn.png){:width="70%"}
 
 ## Peer-Reviewed Workshop Papers
 
