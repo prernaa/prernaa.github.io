@@ -12,7 +12,7 @@ I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_b
 
 To develop these methods and interfaces, I leverage my diverse skills in behavioral statistics, machine learning, natural language processing, speech processing, and computer vision to analyze and model datasets from multiple modalities like smartphone and wearable data, web interaction logs, text and speech data, face and body video, and electronic health records. I also develop user interfaces using iterative prototyping, run user studies, and utilize qualitative methods such as user interviews and thematic analysis in my work. 
 
-My work has been published in top-tier HCI venues, including ACM CHI, IMWUT (UbiComp), CSCW, TOCHI, and JMIR, and has also been covered by media publications such as Wall Street Journal, Forbes, and Harvard Business Review. 
+My work has been published in top-tier computer science venues such as ACM CHI, IMWUT (UbiComp), CSCW, TOCHI, and JMIR, and has also been covered by media publications such as Wall Street Journal, Forbes, and Harvard Business Review. 
 
 I have been a part of research teams at [Microsoft Research](https://www.microsoft.com/en-us/research/){:target="_blank"} and [Snap Research](https://research.snap.com/){:target="_blank"}, and have collaborated on research projects with clinicians and the [University of Pittsburgh Medical Center](https://www.upmc.com/){:target="_blank"}. I was awarded the [Center for Machine Learning and Health Fellowship](https://www.cs.cmu.edu/cmlh/digital-health-archive/cmlh-digital-health-fellows-2017){:target="_blank"}, and the [Snap Research Fellowship](https://research.snap.com/fellowships.html){:target="_blank"}. 
 
