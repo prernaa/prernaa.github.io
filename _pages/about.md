@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. My research develops **data science methods and data-driven user interfaces for understanding and augmenting human behavior**, with the goal of improving the current state of high-impact application areas like health, well-being, computer-mediated communication, and team collaboration. 
+I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. My research develops **data science methods and data-driven user interfaces for understanding and augmenting human behavior**, with the goal of improving the current state of high-impact application areas like health, well-being, computer-mediated communication, and collaboration. 
 
 To develop these methods and interfaces, I leverage my diverse skills in behavioral statistics, machine learning, natural language processing, speech processing, and computer vision to analyze and model datasets from multiple modalities like smartphone and wearable data, web interaction logs, text and speech data, face and body video, and electronic health records. I also develop user interfaces using iterative prototyping, run user studies, and utilize qualitative methods such as user interviews and thematic analysis in my work. 
 
