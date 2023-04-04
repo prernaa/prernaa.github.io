@@ -70,8 +70,8 @@ Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Li
 **Chikersal, P.** (2015, May). [Modelling Public Sentiment in Twitter](files/reports/bengthesis.pdf){:target="_blank"}. *Bachelor Thesis*, Nanyang Technological University, Singapore.
 
 ## Patents
-Bayer, K., **Chikersal, P.**, Nayar, S. K., Smith, B. A. Client device processing received emoji-first messages. U.S. Patent 11593548, filed Apr 20, 2021, and issued on Feb 28, 2023.
+Bayer, K., **Chikersal, P.**, Nayar, S. K., Smith, B. A. Client device processing received emoji-first messages. U.S. Patent 11,593,548, filed Apr 20, 2021, and issued on Feb 28, 2023.
 
-Bayer, K., **Chikersal, P.**, Nayar, S. K., Smith, B. A. Personalized emoji dictionary. U.S. Patent 11531406, filed Apr 20, 2021, and issued on Dec 20, 2022.
+Bayer, K., **Chikersal, P.**, Nayar, S. K., Smith, B. A. Personalized emoji dictionary. U.S. Patent 11,531,406, filed Apr 20, 2021, and issued on Dec 20, 2022.
 
-Bayer, K., **Chikersal**, P., Nayar, S. K., Smith, B. A. Emoji-First Messaging. U.S. Patent 20220337540, filed in 2022. Patent Pending.
+Bayer, K., **Chikersal**, P., Nayar, S. K., Smith, B. A. Emoji-First Messaging. U.S. Patent Application Number 17/234,884, filed Apr 20, 2021, and currently pending.
