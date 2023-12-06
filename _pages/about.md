@@ -12,17 +12,19 @@ redirect_from:
 
 To develop these methods and interfaces, I leverage my diverse skills in behavioral statistics, machine learning, natural language processing, speech processing, and computer vision to analyze and model datasets from multiple modalities like smartphone and wearable data, web interaction logs, text and speech data, face and body video, and electronic health records. I also develop user interfaces using iterative prototyping, run user studies, and utilize qualitative methods such as user interviews and thematic analysis in my work. My work has been published in top-tier computer science venues such as ACM CHI, IMWUT (UbiComp), CSCW, TOCHI, and JMIR. -->
 
-I'm a PhD Candidate at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. My research focuses on developing **machine learning methods and data-driven interfaces for understanding and augmenting human behavior**, with the goal of advancing high-impact application areas like health, well-being, computer-mediated communication, and collaboration. 
+I'm a Machine Learning Scientist at [Tripadvisor](https://www.tripadvisor.com/){:target="_blank"} where I work on building data science methods and machine learning models that drive Tripadvisor's Experiences and "Things To Do" products. I joined Tripadvisor's Data Science and Machine Learning Team in June 2023.
 
-I analyze and model **complex datasets from multiple modalities**, such as smartphone and wearable data, web interaction logs, text and speech data, face and body video, and electronic health records by leveraging my diverse skills in machine learning, human-computer interaction, natural language processing, speech processing, and computer vision. To develop data-driven interfaces, I also leverage iterative prototyping and qualitative methods like user interviews and thematic analysis, thereby creating interfaces tailored to the needs of the user.
+In August 2023, I finished my at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. My PhD research focused on developing **machine learning methods and data-driven interfaces for understanding and augmenting human behavior**, with the goal of advancing high-impact application areas like health, well-being, computer-mediated communication, and collaboration. 
+
+I have extensive experience in analyzing and modeling **complex datasets from multiple modalities**, such as smartphone and wearable data, web interaction logs, text and speech data, face and body video, and electronic health records by leveraging my diverse skills in machine learning, human-computer interaction, natural language processing, speech processing, and computer vision. To develop data-driven interfaces, I also leverage iterative prototyping and qualitative methods like user interviews and thematic analysis, thereby creating interfaces tailored to the needs of the user.
 
 I'm a strong software developer experienced in various programming languages and platforms, and have advanced knowledge of **data structures and algorithms**, **structured query language (SQL)**, and **core machine learning frameworks**. 
 
 My work has been published in top-tier computer science venues such as ACM CHI, IMWUT (UbiComp), CSCW, TOCHI, and JMIR. I have been a part of research teams at [Microsoft Research](https://www.microsoft.com/en-us/research/){:target="_blank"} and [Snap Research](https://research.snap.com/){:target="_blank"}, and have collaborated on research projects with clinicians and the [University of Pittsburgh Medical Center](https://www.upmc.com/){:target="_blank"}. I was awarded the [Center for Machine Learning and Health Fellowship](https://www.cs.cmu.edu/cmlh/digital-health-archive/cmlh-digital-health-fellows-2017){:target="_blank"}, and the [Snap Research Fellowship](https://research.snap.com/fellowships.html){:target="_blank"}. 
 
-Prior to starting my PhD, I completed a [MS in Robotics from Carnegie Mellon University](https://www.ri.cmu.edu/){:target="_blank"}, and a [B.Eng. in Computer Science from Nanyang Technological University](https://www.ntu.edu.sg/scse){:target="_blank"}.
+I also have a [MS in Robotics from Carnegie Mellon University](https://www.ri.cmu.edu/){:target="_blank"}, and a [B.Eng. in Computer Science from Nanyang Technological University](https://www.ntu.edu.sg/scse){:target="_blank"}.
 
-> I'm currently on the job market for research and engineering industry positions, and post-doctoral positions. You can reach me at pchikersal[@]gmail.com.
+> If you'd like to contact me, feel free to reach me at pchikersal[@]gmail.com.
 
 ---
 
@@ -66,6 +68,8 @@ Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Li
 **Chikersal, P.** (2022, April). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/ppts/thesis_proposal_talk.pdf){:target="_blank"}. *PhD Thesis Proposal*, Carnegie Mellon University, Pittsburgh, PA, USA.
 
 ## Thesis
+
+**Chikersal, P.** (2023, Sep). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/reports/phdthesis.pdf){:target="_blank"}. *PhD Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA.
 
 **Chikersal, P.** (2017, May). [Deep Structures of Collaboration](files/reports/msthesis.pdf){:target="_blank"}. *Masters Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA.
 
