@@ -59,11 +59,11 @@ Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Li
 
 **Chikersal, P.**, Poria, S., & Cambria, E. (2015). [SeNTU: Sentiment Analysis of Tweets by Combining a Rule-based Classifier with Supervised Learning](files/papers/workshop_semeval2015.pdf){:target="_blank"}. In *Proceedings of the 4th International Workshop on Semantic Evaluations (pp. 647-651). Association for Computational Linguistics*.
 
-## PhD Thesis
+## Doctoral Thesis
 
-**Chikersal, P.** (2023, Sep). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/reports/phdthesis.pdf){:target="_blank"}. *PhD Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA. ([Thesis Defense Slides Here](files/ppts/defense_talk.pdf))
+**Chikersal, P.** (2023, Dec). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/reports/phdthesis.pdf){:target="_blank"}. *PhD Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA. ([Thesis Defense Slides Here](files/ppts/defense_talk.pdf))
 
-## Thesis
+## Pre-doctoral Thesis
 
 **Chikersal, P.** (2017, May). [Deep Structures of Collaboration](files/reports/msthesis.pdf){:target="_blank"}. *Masters Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA.
 
