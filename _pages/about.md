@@ -61,7 +61,7 @@ Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Li
 
 ## Doctoral Thesis
 
-**Chikersal, P.** (2023, Dec). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/reports/phdthesis.pdf){:target="_blank"}. *PhD Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA. ([Thesis Defense Slides Here](files/ppts/defense_talk.pdf))
+**Chikersal, P.** (2023, Dec). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/reports/phdthesis.pdf){:target="_blank"}. *PhD Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA. ([Thesis Defense Slides Here](files/ppts/defense_talk.pdf){:target="_blank"})
 
 ## Pre-doctoral Thesis
 
