@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I'm a PhD in [Human-Computer Interaction](https://www.hcii.cmu.edu/){:target="_blank"} student at Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. My research develops **data science methods and data-driven user interfaces for understanding and augmenting human behavior**, with the goal of improving the current state of high-impact application areas like health, well-being, computer-mediated communication, and collaboration.
-
-To develop these methods and interfaces, I leverage my diverse skills in behavioral statistics, machine learning, natural language processing, speech processing, and computer vision to analyze and model datasets from multiple modalities like smartphone and wearable data, web interaction logs, text and speech data, face and body video, and electronic health records. I also develop user interfaces using iterative prototyping, run user studies, and utilize qualitative methods such as user interviews and thematic analysis in my work. My work has been published in top-tier computer science venues such as ACM CHI, IMWUT (UbiComp), CSCW, TOCHI, and JMIR. -->
-
 I'm a Machine Learning Scientist at [Tripadvisor](https://www.tripadvisor.com/){:target="_blank"} where I work on building data science methods and machine learning models that drive Tripadvisor's Experiences and "Things To Do" products. I joined Tripadvisor's Data Science and Machine Learning Team in June 2023.
 
 In August 2023, I graduated with a PhD from Carnegie Mellon University's [School of Computer Science](https://www.cs.cmu.edu/){:target="_blank"}. My PhD research focused on developing **machine learning methods and data-driven interfaces for understanding and augmenting human behavior**, with the goal of advancing high-impact application areas like health, well-being, computer-mediated communication, and collaboration. 
@@ -65,7 +61,7 @@ Doryab, A., Villalba, D. K., **Chikersal, P.**, Dutcher, J. M., Tumminia, M., Li
 
 ## PhD Thesis
 
-**Chikersal, P.** (2023, Sep). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/reports/phdthesis.pdf){:target="_blank"}. *PhD Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA.
+**Chikersal, P.** (2023, Sep). [Multimodal Behavioral Sensing for Precision Mental Health Care](files/reports/phdthesis.pdf){:target="_blank"}. *PhD Thesis*, Carnegie Mellon University, Pittsburgh, PA, USA. ([Thesis Defense Slides Here](files/ppts/defense_talk.pdf))
 
 ## Thesis
 
